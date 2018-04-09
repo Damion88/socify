@@ -60,7 +60,7 @@ gem 'auto_html', '~>1.6.4'
 gem 'sanitize'
 
 gem 'active_model_serializers'
-gem 'nio4r', '~>2.0.0'
+gem 'nokogiri', '~>2.0.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
